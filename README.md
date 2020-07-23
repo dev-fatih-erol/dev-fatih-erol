@@ -1,6 +1,6 @@
 <!--
 **dev-fatih-erol/dev-fatih-erol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-a
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
+![](https://media3.giphy.com/media/cl97l7xMLz2Sg5s2Bd/giphy.gif)
